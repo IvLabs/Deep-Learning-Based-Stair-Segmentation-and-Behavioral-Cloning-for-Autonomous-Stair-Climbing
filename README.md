@@ -8,7 +8,7 @@ The pipeline in the paper consist of two parts, namely semantic segmentation of 
 
 
 
-
+\hline
 
 If you end up using this code, or want to cite the above paper, kindly cite as follows. 
 ```
