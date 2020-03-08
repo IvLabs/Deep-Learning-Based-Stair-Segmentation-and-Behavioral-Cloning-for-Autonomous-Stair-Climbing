@@ -1,7 +1,7 @@
 # Deep-Learning-Based-Stair-Segmentation-and-Behavioral-Cloning-for-Autonomous-Stair-Climbing
 Code for "Deep Learning-Based Stair Segmentation and Behavioral Cloning for Autonomous Stair Climbing"
 
-This repository contains the code for the above mentioned paper. There are two implementations given, one in Pytorch and another one in Fastai (it is technically Pytorch only, just a lot more concise). 
+This repository contains the code for the above mentioned paper. The implementation is done in Fast.ai library, since it is very concise and simple to understand. (Earlier code was in Pytorch but then it has been subsequently moved to fastai for simplicity.)
 
 The pipeline in the paper consist of two parts, namely semantic segmentation of stairs and then behavioral cloning for stair alignment. There are separate code files for both the tasks. `test.py` contains the complete pipeline for testing using the above mentioned pipeline. Since the paper is not open sourced the authors encourage you to obtain the copy of the paper from the link given below. 
 
